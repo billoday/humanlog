@@ -1,0 +1,5 @@
+xdg-base-dirs==6.0.1
+typer[all]==0.9.0
+pydantic==2.6.3
+structlog==24.1.0
+
